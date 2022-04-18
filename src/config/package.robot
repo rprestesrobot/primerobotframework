@@ -12,6 +12,7 @@ Library    DebugLibrary
 ##################
 Resource    ../auto/keywords/kws_web.robot
 Resource    ../auto/keywords/kws_webtesting.robot
+Resource    ../auto//keywords//kws_login.robot
 
 ##################
 #    Config      #
